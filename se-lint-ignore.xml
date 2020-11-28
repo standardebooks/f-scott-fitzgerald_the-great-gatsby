@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-7.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text items are not typos.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

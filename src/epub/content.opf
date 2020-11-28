@@ -29,12 +29,27 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Great Gatsby</dc:title>
 		<meta property="file-as" refines="#title">Great Gatsby, The</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Traffic accidents--Fiction</dc:subject>
+		<dc:subject id="subject-2">First loves--Fiction</dc:subject>
+		<dc:subject id="subject-3">Rich people--Fiction</dc:subject>
+		<dc:subject id="subject-4">Mistresses--Fiction</dc:subject>
+		<dc:subject id="subject-5">Revenge--Fiction</dc:subject>
+		<dc:subject id="subject-6">Long Island (N.Y.)--Fiction</dc:subject>
+		<dc:subject id="subject-7">Psychological fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh2008112715</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-2">sh2008103607</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008110355</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008107168</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008110358</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008106613</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh85108438</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">

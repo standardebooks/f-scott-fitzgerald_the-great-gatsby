@@ -25,6 +25,7 @@ table{
 
 table td{
 	padding: 0 .5em;
+	vertical-align: bottom;
 }
 
 table td:last-child{

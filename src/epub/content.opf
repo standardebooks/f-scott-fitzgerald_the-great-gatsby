@@ -55,7 +55,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20181181</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.184960</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>

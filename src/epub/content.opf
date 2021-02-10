@@ -54,7 +54,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Novels</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<meta id="collection-2" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">51</meta>
 		<dc:description id="description">The decadent and mysterious Jay Gatsby pursues the American Dream in jazz-era New York.</dc:description>

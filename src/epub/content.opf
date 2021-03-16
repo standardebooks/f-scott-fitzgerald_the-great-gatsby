@@ -57,7 +57,7 @@
 		<meta id="collection-2" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">51</meta>
-		<dc:description id="description">The decadent and mysterious Jay Gatsby pursues the American Dream in jazz-era New York.</dc:description>
+		<dc:description id="description">The decadent and mysterious Jay Gatsby pursues the American Dream in Jazz Age New York.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Great Gatsby&lt;/i&gt; is a novel that needs no introduction for a certain generation of American readers. Long taught as required reading in American schools, critics have consistently held it up alongside &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/herman-melville/moby-dick"&gt;Moby Dick&lt;/a&gt;&lt;/i&gt;, &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn"&gt;Huck Finn&lt;/a&gt;&lt;/i&gt;, and &lt;i&gt;To Kill a Mockingbird&lt;/i&gt; as perhaps the quintessential Great American Novel.&lt;/p&gt;
 			&lt;p&gt;Nick Carraway is a young Midwestern man freshly arrived in New York to make his fortune. He rents a shabby apartment in Long Island next door to a sumptuous mansion: the home of the mysterious and wealthy Jay Gatsby. Carraway spends time catching up with his distant cousin Daisy and her industry-baron husband Tom before being invited to one of Gatsby’s wildly lavish weekend parties. There he meets Jordan, a flapper and a golf star, and an intricate web of romances and betrayals begins to unfold.&lt;/p&gt;

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-4.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Matched text is an interruption in a narrative, so lowercase is acceptable.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

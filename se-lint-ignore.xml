@@ -5,5 +5,9 @@
 			<code>t-057</code>
 			<reason>Matched text is an interruption in a narrative, so lowercase is acceptable.</reason>
 		</ignore>
+		<ignore>
+			<code>t-063</code>
+			<reason>Confusable phrase is part of a proper name.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>

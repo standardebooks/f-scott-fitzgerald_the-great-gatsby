@@ -58,7 +58,7 @@
 		<meta property="group-position" refines="#collection-2">51</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
-		<meta id="collection-4" property="belongs-to-collection">Le Monde‘s 100 Books of the Century</meta>
+		<meta id="collection-4" property="belongs-to-collection">Le Monde’s 100 Books of the Century</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
 		<meta property="group-position" refines="#collection-4">46</meta>
 		<dc:description id="description">The decadent and mysterious Jay Gatsby pursues the American Dream in Jazz Age New York.</dc:description>

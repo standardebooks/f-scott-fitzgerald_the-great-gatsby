@@ -94,8 +94,8 @@
 		<dc:contributor id="transcriber-2">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Beyer, Cindy</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreaders Canada Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreaders Canada Team, The</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders Canada</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders Canada</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdpcanada.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
